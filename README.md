@@ -1,3 +1,4 @@
 # best-repo-ever
 # my test
-my text change branch-2
+my text change from both  branch1 abd branch 2
+
